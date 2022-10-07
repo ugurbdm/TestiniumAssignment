@@ -1,0 +1,142 @@
+2022-10-07 15:44:10,602 INFO  [Log] search_product()PASSED 
+2022-10-07 15:44:15,141 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:44:15,219 INFO  [Log] select_product()PASSED 
+2022-10-07 15:44:19,218 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:44:20,241 INFO  [Log] user_information()FAILEDno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="n-input-email"]"}
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b2773b34c3e7ca9e5bd3398340212efc, findElement {using=xpath, value=//*[@id="n-input-email"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\Badem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50182}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50182/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b2773b34c3e7ca9e5bd3398340212efc 
+2022-10-07 15:44:20,257 INFO  [Log] remove_product()FAILEDno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[2]"}
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b2773b34c3e7ca9e5bd3398340212efc, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\Badem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50182}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50182/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b2773b34c3e7ca9e5bd3398340212efc 
+2022-10-07 15:45:24,510 INFO  [Log] search_product()PASSED 
+2022-10-07 15:45:29,025 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:45:29,145 INFO  [Log] select_product()PASSED 
+2022-10-07 15:45:33,132 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:45:37,672 INFO  [Log] user_information()PASSED 
+2022-10-07 15:45:40,932 INFO  [Log] remove_product()PASSED 
+2022-10-07 15:46:39,605 INFO  [Log] search_product()PASSED 
+2022-10-07 15:46:44,135 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:46:44,222 INFO  [Log] select_product()PASSED 
+2022-10-07 15:46:48,762 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:46:53,105 INFO  [Log] user_information()PASSED 
+2022-10-07 15:46:56,963 INFO  [Log] remove_product()PASSED 
+2022-10-07 15:47:49,869 INFO  [Log] search_product()PASSED 
+2022-10-07 15:47:54,289 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:47:54,375 INFO  [Log] select_product()PASSED 
+2022-10-07 15:48:00,929 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:48:06,503 INFO  [Log] user_information()PASSED 
+2022-10-07 15:48:09,971 INFO  [Log] remove_product()PASSED 
+2022-10-07 15:48:37,263 INFO  [Log] search_product()PASSED 
+2022-10-07 15:48:41,558 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:48:41,643 INFO  [Log] select_product()PASSED 
+2022-10-07 15:48:46,050 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:48:51,492 INFO  [Log] user_information()PASSED 
+2022-10-07 15:48:54,965 INFO  [Log] remove_product()PASSED 
+2022-10-07 15:51:55,152 INFO  [Log] search_product()PASSED 
+2022-10-07 15:51:59,469 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:51:59,561 INFO  [Log] select_product()PASSED 
+2022-10-07 15:52:03,850 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:52:08,807 INFO  [Log] user_information()PASSED 
+2022-10-07 15:52:12,219 INFO  [Log] remove_product()PASSED 
+2022-10-07 15:53:30,810 INFO  [Log] search_product()PASSED 
+2022-10-07 15:53:35,321 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:53:35,544 INFO  [Log] select_product()PASSED 
+2022-10-07 15:53:36,777 INFO  [Log] go_to_cart()FAILEDno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="header__desktopBasket"]/div/div[3]/a"}
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f14805441b6882755d25a218c5849b6b, findElement {using=xpath, value=//*[@id="header__desktopBasket"]/div/div[3]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\Badem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51290}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51290/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f14805441b6882755d25a218c5849b6b 
+2022-10-07 15:53:38,503 INFO  [Log] user_information()FAILEDno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="n-input-email"]"}
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f14805441b6882755d25a218c5849b6b, findElement {using=xpath, value=//*[@id="n-input-email"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\Badem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51290}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51290/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f14805441b6882755d25a218c5849b6b 
+2022-10-07 15:53:41,223 INFO  [Log] remove_product()FAILEDelement click intercepted: Element <div class="header__basketProductBtn header__basketModal -remove">...</div> is not clickable at point (1860, 165). Other element would receive the click: <div data-product-list="" id="pagedListContainer" data-order="Editor" data-page-type="search" data-show-products="True" data-show-contents="False" data-total-page-count="2" class="productList">...</div>
+  (Session info: chrome=106.0.5249.103)
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f14805441b6882755d25a218c5849b6b, clickElement {id=11acebbe-78ff-4220-a7dc-a52d9dda5053}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\Badem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51290}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51290/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (f14805441b6882755d25a218c5849b6b)] -> xpath: //*[@id="header__desktopBasket"]/div/div[2]/div/div[3]]
+Session ID: f14805441b6882755d25a218c5849b6b 
+2022-10-07 15:54:31,839 INFO  [Log] search_product()PASSED 
+2022-10-07 15:54:36,281 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:54:36,395 INFO  [Log] select_product()PASSED 
+2022-10-07 15:54:37,624 INFO  [Log] go_to_cart()FAILEDno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="header__desktopBasket"]/div/div[3]/a"}
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [75a0d0b3c270e8579207ae54f22450cf, findElement {using=xpath, value=//*[@id="header__desktopBasket"]/div/div[3]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\Badem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51411}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51411/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 75a0d0b3c270e8579207ae54f22450cf 
+2022-10-07 15:54:39,348 INFO  [Log] user_information()FAILEDno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="n-input-email"]"}
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [75a0d0b3c270e8579207ae54f22450cf, findElement {using=xpath, value=//*[@id="n-input-email"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\Badem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51411}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51411/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 75a0d0b3c270e8579207ae54f22450cf 
+2022-10-07 15:54:42,712 INFO  [Log] remove_product()PASSED 
+2022-10-07 15:55:29,081 INFO  [Log] search_product()PASSED 
+2022-10-07 15:55:33,618 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:55:33,708 INFO  [Log] select_product()PASSED 
+2022-10-07 15:55:37,713 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:55:42,257 INFO  [Log] user_information()PASSED 
+2022-10-07 15:55:45,725 INFO  [Log] remove_product()PASSED 
+2022-10-07 15:56:30,266 INFO  [Log] search_product()PASSED 
+2022-10-07 15:56:34,740 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:56:34,832 INFO  [Log] select_product()PASSED 
+2022-10-07 15:56:38,779 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:56:45,856 INFO  [Log] user_information()PASSED 
+2022-10-07 15:56:49,338 INFO  [Log] remove_product()PASSED 
+2022-10-07 15:58:34,965 INFO  [Log] search_product()PASSED 
+2022-10-07 15:58:39,478 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:58:39,568 INFO  [Log] select_product()PASSED 
+2022-10-07 15:58:43,542 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 15:58:49,694 INFO  [Log] user_information()PASSED 
+2022-10-07 15:58:54,407 INFO  [Log] remove_product()FAILEDno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/header/div/div/div[3]/div[2]/button/svg"}
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d832b4c2dab2fb1fff46a37fd82a42d, findElement {using=xpath, value=/html/body/div[2]/header/div/div/div[3]/div[2]/button/svg}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\Badem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52153}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52153/devtoo..., se:cdpVersion: 106.0.5249.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d832b4c2dab2fb1fff46a37fd82a42d 
+2022-10-07 15:59:47,799 INFO  [Log] search_product()PASSED 
+2022-10-07 15:59:52,344 INFO  [Log] scroll_page()PASSED 
+2022-10-07 15:59:52,434 INFO  [Log] select_product()PASSED 
+2022-10-07 15:59:56,435 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 16:00:01,448 INFO  [Log] user_information()PASSED 
+2022-10-07 16:00:06,218 INFO  [Log] remove_product()PASSED 
+2022-10-07 16:00:29,229 INFO  [Log] search_product()PASSED 
+2022-10-07 16:00:33,516 INFO  [Log] scroll_page()PASSED 
+2022-10-07 16:00:33,608 INFO  [Log] select_product()PASSED 
+2022-10-07 16:00:37,598 INFO  [Log] go_to_cart()PASSED 
+2022-10-07 16:00:42,297 INFO  [Log] user_information()PASSED 
+2022-10-07 16:00:47,321 INFO  [Log] remove_product()PASSED 
